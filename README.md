@@ -13,7 +13,8 @@ To add to the list of quotes: EDIT
 3.  Create Pull Request.
 
 ## The Quotes
-
+Your time is limited, so don't waste it living someone else's life.
+> Steve Jobs
 > As we work to create light for others, we naturally light our own way.
 
 Mary Anne Radmacher
